@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+
+  "products": [
+    {
+  "id": 1,
+  "name": "Cap",
+  "img": "https://cdn.vectorstock.com/i/1000x1000/28/74/cap-vector-62874.webp",
+  "date": "13 Sept 2023",
+  "publisher": "Admin"
+},
+{
+  "id": 2,
+  "name": "Cap",
+  "img": "https://cdn.vectorstock.com/i/1000x1000/70/68/belt-vector-1247068.webp",
+  "date": "13 Sept 2023",
+  "publisher": "Admin"
+},   {
+  "id": 3,
+  "name": "Cap",
+  "img": "https://cdn.vectorstock.com/i/1000x1000/22/26/beret-flat-vector-24382226.webp",
+  "date": "13 Sept 2023",
+  "publisher": "Admin"
+},   {
+  "id": 4,
+  "name": "Cap",
+  "img": "https://cdn.vectorstock.com/i/1000x1000/76/64/baseball-shirt-vector-3967664.webp",
+  "date": "13 Sept 2023",
+  "publisher": "Admin"
+},
+{
+  "id": 5,
+  "name": "Cap",
+  "img": "https://cdn.vectorstock.com/i/1000x1000/70/68/belt-vector-1247068.webp",
+  "date": "13 Sept 2023",
+  "publisher": "Admin"
+},   {
+  "id": 6,
+  "name": "Cap",
+  "img": "https://cdn.vectorstock.com/i/1000x1000/22/26/beret-flat-vector-24382226.webp",
+  "date": "13 Sept 2023",
+  "publisher": "Admin"
+},   {
+  "id": 7,
+  "name": "Cap",
+  "img": "https://cdn.vectorstock.com/i/1000x1000/76/64/baseball-shirt-vector-3967664.webp",
+  "date": "13 Sept 2023",
+  "publisher": "Admin"
+}
+]
+}
